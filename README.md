@@ -9,6 +9,8 @@ Each part goes through the same steps: explore the data, train a baseline model,
 
 **Tech:** Python · pandas · NumPy · scikit-learn · Matplotlib
 
+Originally completed for CPSC 254 (Applied AI) at Cal State Fullerton.
+
 ## Results
 
 | Task | Model | Test score |
